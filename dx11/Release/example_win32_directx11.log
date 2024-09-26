@@ -1,0 +1,7 @@
+﻿  menu.cpp
+  Generating code
+  1 of 1583 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx11.vcxproj -> C:\Users\admin\source\repos\spoofer menu\imgui\examples\example_win32_directx11\Release\example_win32_directx11.exe
