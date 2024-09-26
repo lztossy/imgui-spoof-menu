@@ -1,3 +1,3 @@
-dx11 non-functional spoofer menu designed in ImGui
+imgui dx11 spoofer menu
 
 ![Showcase](spoofer.png)
